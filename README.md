@@ -1,2 +1,2 @@
 # electronics-store
-Just a activity with mysql DB
+Just an activity in mysql DB
